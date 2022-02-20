@@ -1,11 +1,17 @@
 #receita de pizza
 
 #pizza pan 
+
 ##**600 g de farinha de tripo tipo 1
+
 ##**350 g de agua filtrada em temp ambiente
+
 ##**5g de fermento biologico 
+
 ##**50 g de açucar e 10 g de sal 
+
 ##**40 g de oleo de soja ,pode ser substituído por azeite
+
 ##**30 g de leite em po 
 _ _ preparo
 1.farinha com indice W acima de 300,depois acuçar,fermendo biologico
