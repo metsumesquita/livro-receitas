@@ -2,13 +2,13 @@
 
 ###### ingredientes:
 
-######1 kg de farinha de trigo(aproximadamente)
-######500ml de água morna
-######1 colher de sopa de açúcar
-######1/2 colher de sopa de sal
-######40ml de óleo
-######1 ovo
-######20g de fermento fresco ou 10g de fermento seco
+#### kg de farinha de trigo(aproximadamente)
+####00ml de água morna
+####1 colher de sopa de açúcar
+####/2 colher de sopa de sal
+####40ml de óleo
+#####1 ovo
+####20g de fermento fresco ou 10g de fermento seco
 
 #pizza pan 
 **600 g de farinha de tripo tipo 1
